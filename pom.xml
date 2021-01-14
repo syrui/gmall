@@ -38,7 +38,7 @@
         <codehaus-jackson.version>1.9.13</codehaus-jackson.version>
         <!-- fastDFS 版本-->
         <com.github.tobato.version>1.26.7</com.github.tobato.version>
-        <com.poi.version>3.15</com.poi.version>
+        <com.poi.version>4.1.2</com.poi.version>
     </properties>
     <!-- 子模块继承之后，提供作用：锁定版本+子modlue不用写groupId和version  -->
     <dependencyManagement>
